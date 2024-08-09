@@ -11,8 +11,6 @@ Mini Projects
 I love creating small, focused projects that solve specific problems or demonstrate certain concepts. Here are a few of them:
 
 Project Name 1: A Simple Unit Converter Using C.
-Project Name 2: 
-Project Name 3: 
 
 Current Work in Progress
 I'm always working on something new! Here are some projects I'm currently developing:
